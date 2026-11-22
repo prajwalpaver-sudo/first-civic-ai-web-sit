@@ -1,0 +1,36 @@
+{
+  "type": "object",
+  "name": "ScamReport",
+  "properties": {
+    "claim": {
+      "type": "string"
+    },
+    "verdict": {
+      "type": "string"
+    },
+    "note": {
+      "type": "string"
+    },
+    "language": {
+      "type": "string"
+    }
+  },
+  "rls": {
+    "create": {},
+    "read": {
+      "user_condition": {
+        "role": "admin"
+      }
+    },
+    "update": {
+      "user_condition": {
+        "role": "admin"
+      }
+    },
+    "delete": {
+      "user_condition": {
+        "role": "admin"
+      }
+    }
+  }
+}

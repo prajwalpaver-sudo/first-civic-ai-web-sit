@@ -1,0 +1,98 @@
+[
+  {
+    "id": "guide-ration-card",
+    "title": "How to get a ration card",
+    "category": "Food",
+    "text": "A ration card is issued under the National Food Security Act by the state food department. Apply on your state's food portal or at the tehsil / block office with Aadhaar of all family members, address proof and a family photo. After the food inspector verifies the family, the card is issued and linked to Aadhaar. A priority household card gives 5 kg free foodgrain per person per month under the extended PM Garib Kalyan Anna Yojana. If the card is not issued in time, complain to the District Grievance Redressal Officer or call the PDS helpline 1967.",
+    "source_url": "https://nfsa.gov.in/",
+    "last_verified": "2026-10-15"
+  },
+  {
+    "id": "guide-rti",
+    "title": "How to file an RTI application",
+    "category": "Rights",
+    "text": "Under the Right to Information Act 2005, any citizen can ask a public authority for information. Write the question clearly on plain paper or use the online RTI portal rtionline.gov.in. Address it to the Public Information Officer (PIO) of the department. Pay the fee of ₹10 by court fee stamp, demand draft or online. No fee is charged for people below the poverty line. The PIO must reply within 30 days, or 48 hours if the information concerns a person's life or liberty. If there is no reply or the reply is wrong, file a first appeal with the appellate authority, then a second appeal with the State or Central Information Commission.",
+    "source_url": "https://rtionline.gov.in/",
+    "last_verified": "2026-10-15"
+  },
+  {
+    "id": "guide-police-rights",
+    "title": "Your rights if the police stop you",
+    "category": "Rights",
+    "text": "If police stop you, you can ask for their name and badge number. A woman cannot be arrested after sunset and before sunrise except in special cases with a magistrate's permission, and a woman officer must be present. If you are arrested, you have the right to be told the grounds of arrest, to inform a family member or friend, to meet a lawyer, and to be produced before a magistrate within 24 hours. You cannot be forced to sign blank papers or confess. Refusing to pay a bribe is your right; ask for a receipt for any official payment. For free legal help call the National Legal Services Authority helpline 15100.",
+    "source_url": "https://nalsa.gov.in/",
+    "last_verified": "2026-10-15"
+  },
+  {
+    "id": "guide-pension-stopped",
+    "title": "If your pension or benefit stops",
+    "category": "Pension",
+    "text": "First check the reason at the bank: often the pension stops because Aadhaar seeding, KYC or the annual life certificate is pending. Give a written application to the bank branch and take a receipt. For central schemes, file a grievance on CPGRAMS at pgportal.gov.in. For state pensions, use your state grievance portal or meet the Block Development Officer. If money was withdrawn by someone else, report it at the bank and the local police. Keep copies of all applications and receipts.",
+    "source_url": "https://pgportal.gov.in/",
+    "last_verified": "2026-10-15"
+  },
+  {
+    "id": "guide-grievance",
+    "title": "How to file a government grievance",
+    "category": "Complaint",
+    "text": "CPGRAMS (Centralised Public Grievance Redress and Monitoring System) at pgportal.gov.in accepts complaints about central government departments. Register with your email or mobile number, describe the problem, attach documents and submit. You get a registration number to track the complaint. Most complaints are to be resolved within a month. For state departments use the state grievance portal or the Chief Minister's helpline. Escalate to the Department of Administrative Reforms if there is no response.",
+    "source_url": "https://pgportal.gov.in/",
+    "last_verified": "2026-10-15"
+  },
+  {
+    "id": "guide-notice",
+    "title": "What a government notice means",
+    "category": "Notices",
+    "text": "A government notice usually names the department, a reference number, the reason, the action you must take, and a deadline. Look for the date of issue, the last date to reply, and the office address. Do not ignore a notice: reply in writing before the deadline and keep a copy with the receipt. If the notice is about a payment, check the amount and the official payment channel. Genuine notices never ask for an OTP, a password, or payment to a personal account or UPI ID. If you are unsure, take the notice to the office named on it, a CSC, or a free legal aid clinic.",
+    "source_url": "https://www.india.gov.in/",
+    "last_verified": "2026-10-15"
+  },
+  {
+    "id": "guide-cyber-fraud",
+    "title": "If you are cheated online or by phone",
+    "category": "Safety",
+    "text": "Report online fraud immediately on the national cyber crime portal cybercrime.gov.in or call 1930. Report within the golden hour (the first few hours) so the bank can freeze the transfer. Keep screenshots, transaction IDs and the phone number used. Never share an OTP, PIN, CVV or Aadhaar OTP with anyone, even someone claiming to be from a bank, the government or a delivery company. No government scheme asks for money to release a benefit.",
+    "source_url": "https://cybercrime.gov.in/",
+    "last_verified": "2026-10-15"
+  },
+  {
+    "id": "guide-legal-aid",
+    "title": "Free legal aid",
+    "category": "Rights",
+    "text": "Every person who cannot afford a lawyer has the right to free legal aid under the Legal Services Authorities Act 1987. This covers women, children, SC/ST persons, industrial workers, persons with disability, victims of trafficking or disaster, and anyone with income below the state limit. Call the NALSA helpline 15100 or visit the District Legal Services Authority at the district court. Legal aid clinics also run in many villages and prisons.",
+    "source_url": "https://nalsa.gov.in/",
+    "last_verified": "2026-10-15"
+  },
+  {
+    "id": "guide-caste-certificate",
+    "title": "How to get a caste or income certificate",
+    "category": "Certificates",
+    "text": "Caste, income, domicile and birth certificates are issued by the state revenue department. Apply on your state's e-district portal or at the tehsil / CSC with Aadhaar, ration card, old school record or family documents. Verification is done by the tehsildar or revenue officer, usually within 15 to 30 days. Certificates are now issued digitally with a QR code and can be downloaded from the portal. Most welfare schemes accept the digital version.",
+    "source_url": "https://www.india.gov.in/",
+    "last_verified": "2026-10-15"
+  },
+  {
+    "id": "guide-land-records",
+    "title": "Checking land records",
+    "category": "Farmers",
+    "text": "Land records (khatauni, 7-12 extract, RTC, patta) are kept by the state revenue department and are usually available on the state Bhulekh or Bhoomi portal. Search by district, village and owner name. If the record is wrong, apply for correction at the tehsil office with the sale deed and a written application. For farm schemes like PM-KISAN, the name on the land record must match the Aadhaar and bank account.",
+    "source_url": "https://www.india.gov.in/",
+    "last_verified": "2026-10-15"
+  },
+  {
+    "id": "guide-csc",
+    "title": "Common Service Centres (CSC)",
+    "category": "Services",
+    "text": "A Common Service Centre is a local digital service point, usually run by a Village Level Entrepreneur. At a CSC you can apply for many government schemes, print certificates, do Aadhaar e-KYC, pay bills and file grievances for a small service charge. Ask for a receipt for every payment. Government application forms themselves are free; a CSC may charge only its service fee.",
+    "source_url": "https://csc.gov.in/",
+    "last_verified": "2026-10-15"
+  },
+  {
+    "id": "guide-women-safety",
+    "title": "Help for women in distress",
+    "category": "Safety",
+    "text": "The Women Helpline 181 is available 24 hours for women facing violence, harassment or distress. The One Stop Centre (Sakhi Centre) in each district gives police, medical, legal and shelter support in one place. Domestic violence can be reported under the Protection of Women from Domestic Violence Act 2005 at the police station or before a magistrate. For emergency police help call 112.",
+    "source_url": "https://wcd.nic.in/",
+    "last_verified": "2026-10-15"
+  }
+]
